@@ -1,0 +1,2 @@
+export const apikey = '8870315e735c1c921ff3014aadbfcea9'
+export const token = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ODcwMzE1ZTczNWMxYzkyMWZmMzAxNGFhZGJmY2VhOSIsInN1YiI6IjY1NjhlMWE5ZWE4NGM3MDExZTVjMDNlYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.4iwImxVrt-rf5R8rltKzhPsaClgieAiCzkXfj74dh8o'

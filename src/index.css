@@ -1,0 +1,16 @@
+body{
+  background-color: #888;
+}
+.container{
+  display: flex;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1200px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+.main{
+  width: 100%;
+}
